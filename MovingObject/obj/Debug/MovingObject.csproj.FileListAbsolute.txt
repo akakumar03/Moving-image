@@ -1,0 +1,11 @@
+C:\Users\pc\source\repos\MovingObject\MovingObject\bin\Debug\MovingObject.exe.config
+C:\Users\pc\source\repos\MovingObject\MovingObject\bin\Debug\MovingObject.exe
+C:\Users\pc\source\repos\MovingObject\MovingObject\bin\Debug\MovingObject.pdb
+C:\Users\pc\source\repos\MovingObject\MovingObject\obj\Debug\MovingObject.csprojResolveAssemblyReference.cache
+C:\Users\pc\source\repos\MovingObject\MovingObject\obj\Debug\MovingObject.FormView.resources
+C:\Users\pc\source\repos\MovingObject\MovingObject\obj\Debug\MovingObject.Properties.Resources.resources
+C:\Users\pc\source\repos\MovingObject\MovingObject\obj\Debug\MovingObject.csproj.GenerateResource.Cache
+C:\Users\pc\source\repos\MovingObject\MovingObject\obj\Debug\MovingObject.csproj.CoreCompileInputs.cache
+C:\Users\pc\source\repos\MovingObject\MovingObject\obj\Debug\MovingObject.exe
+C:\Users\pc\source\repos\MovingObject\MovingObject\obj\Debug\MovingObject.pdb
+C:\Users\pc\source\repos\MovingObject\MovingObject\bin\Debug\12048957873_ab44dde9af.jpg
